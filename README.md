@@ -1,4 +1,4 @@
-# 🚀 Quick Start: Node Project via Helm + Kubernetes
+# 🚀 Run Node.js Directly from a Volume with Helm & Kubernetes
 
 This setup runs a **Node.js project from a PersistentVolume**, always using the **latest Git code**.
 
